@@ -1,0 +1,29 @@
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\Rasporedjivac\bin\Debug\Rasporedjivac.exe
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\Rasporedjivac\bin\Debug\Rasporedjivac.pdb
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\Rasporedjivac\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\Rasporedjivac\obj\x86\Debug\Rasporedjivac.exe
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\Rasporedjivac\obj\x86\Debug\Rasporedjivac.pdb
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\Rasporedjivac\obj\x86\Debug\Rasporedjivac.exe
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\Rasporedjivac\obj\x86\Debug\Rasporedjivac.pdb
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\Rasporedjivac\bin\Debug\Rasporedjivac.exe
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\Rasporedjivac\bin\Debug\Rasporedjivac.pdb
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\Rasporedjivac\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\Rasporedjivac\obj\x86\Debug\Rasporedjivac.exe
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\Rasporedjivac\obj\x86\Debug\Rasporedjivac.pdb
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\Rasporedjivac\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\Rasporedjivac\obj\x86\Debug\Rasporedjivac.exe
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\Rasporedjivac\bin\Debug\Rasporedjivac.exe
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\Rasporedjivac\bin\Debug\Rasporedjivac.pdb
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\Rasporedjivac\obj\x86\Debug\Rasporedjivac.pdb
+F:\DMS\Korisnik\Rasporedjivac\bin\Debug\Rasporedjivac.exe
+F:\DMS\Korisnik\Rasporedjivac\bin\Debug\Rasporedjivac.pdb
+F:\DMS\Korisnik\Rasporedjivac\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DMS\Korisnik\Rasporedjivac\obj\x86\Debug\Rasporedjivac.exe
+F:\DMS\Korisnik\Rasporedjivac\obj\x86\Debug\Rasporedjivac.pdb
+F:\DMS\Korisnik\WPFMatrice\bin\Debug\Rasporedjivac.exe
+F:\DMS\Korisnik\WPFMatrice\bin\Debug\Rasporedjivac.pdb
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\bin\Debug\Rasporedjivac.exe
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\bin\Debug\Rasporedjivac.pdb
+C:\Users\jelena.pantovic\Videos\Korisnik\Rasporedjivac\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena.pantovic\Videos\Korisnik\Rasporedjivac\obj\x86\Debug\Rasporedjivac.exe
+C:\Users\jelena.pantovic\Videos\Korisnik\Rasporedjivac\obj\x86\Debug\Rasporedjivac.pdb

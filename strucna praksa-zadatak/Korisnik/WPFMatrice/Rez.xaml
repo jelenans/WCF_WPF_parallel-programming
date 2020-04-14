@@ -1,0 +1,12 @@
+﻿<Window x:Class="WPFMatrice.Rez"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Rez" MinHeight="300" MinWidth="248" Height="Auto" Width="Auto" Background="#FFBCC4EF" WindowStartupLocation="CenterScreen" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" d:DesignHeight="286" d:DesignWidth="261" SizeToContent="WidthAndHeight">
+    <Grid Width="236">
+        <StackPanel Height="Auto" HorizontalAlignment="Left"  Name="stackPanelRez" VerticalAlignment="Top" Width="203"></StackPanel>
+        <StackPanel DockPanel.Dock="Bottom" FlowDirection="LeftToRight" Height="31" Name="stackPanel" Orientation="Horizontal" Width="166" Margin="41,218,29,12">
+            <Button Background="#FF7E7EE9" Content="U redu" FontFamily="Euphemia" Height="29" HorizontalAlignment="Left"  Name="btnOk" VerticalAlignment="Top" Width="81" Click="btnOk_Click" />
+            <Button Background="#FF7E7EE9" Content="Izlaz" FontFamily="Euphemia" Height="29" HorizontalAlignment="Left" Name="btnIzlaz" VerticalAlignment="Top" Width="81" Click="btnIzlaz_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

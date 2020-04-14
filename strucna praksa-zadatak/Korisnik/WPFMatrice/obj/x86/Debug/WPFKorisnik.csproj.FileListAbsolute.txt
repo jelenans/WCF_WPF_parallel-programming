@@ -1,0 +1,206 @@
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.cache
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.g.resources
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.Properties.Resources.resources
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.pdb
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe.config
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.pdb
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.exe
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.baml
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.baml
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.g.cs
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\App.g.cs
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\Rez.baml
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\Rez.g.cs
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\Dimenzije.baml
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\Dimenzije.g.cs
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\bin\Debug\WPFMatrice.exe.config
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\WPFMatrice.exe
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\WPFMatrice.pdb
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\bin\Debug\WPFMatrice.exe
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\bin\Debug\WPFMatrice.pdb
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\Dimenzije.baml
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\MainWindow.baml
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\Rez.baml
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\UnosMatrica.baml
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\Dimenzije.g.cs
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\Rez.g.cs
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\UnosMatrica.g.cs
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\App.g.cs
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.cache
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\WPFMatrice.g.resources
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\WPFMatrice.Properties.Resources.resources
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\WCFMatrice_UI\WPFMatrice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\Progress.baml
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\Progress.g.cs
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.lref
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe.config
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.exe
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.pdb
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.pdb
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.baml
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\Progress.baml
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\Rez.baml
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.baml
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\Dimenzije.g.cs
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\Progress.g.cs
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\Rez.g.cs
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.g.cs
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\App.g.cs
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.cache
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.lref
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\Dimenzije.baml
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.g.resources
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.Properties.Resources.resources
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe.config
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.exe
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.pdb
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.pdb
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.baml
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\Progress.baml
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\Rez.baml
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.baml
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\Dimenzije.g.cs
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\Progress.g.cs
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\Rez.g.cs
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.g.cs
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\App.g.cs
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.cache
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.lref
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\Dimenzije.baml
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.g.resources
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.Properties.Resources.resources
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Matrice_valid\Korisnik\WPFMatrice\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DMS\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe.config
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.exe
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.pdb
+F:\DMS\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe
+F:\DMS\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.pdb
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.baml
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\Progress.baml
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\Rez.baml
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.baml
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\Dimenzije.g.cs
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.g.cs
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\Progress.g.cs
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\Rez.g.cs
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.g.cs
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\App.g.cs
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.cache
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.lref
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\Dimenzije.baml
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.g.resources
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.Properties.Resources.resources
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DMS\Korisnik\WPFMatrice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe.config
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.exe
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.pdb
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.pdb
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.baml
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\Progress.baml
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\Rez.baml
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.baml
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\Dimenzije.g.cs
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\Progress.g.cs
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\Rez.g.cs
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.g.cs
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\App.g.cs
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.cache
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.lref
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\Dimenzije.baml
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.g.resources
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.Properties.Resources.resources
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DMS\theOne\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe.config
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.exe
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.pdb
+F:\DMS\theOne\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe
+F:\DMS\theOne\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.pdb
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.baml
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\Progress.baml
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\Rez.baml
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.baml
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\Dimenzije.g.cs
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.g.cs
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\Progress.g.cs
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\Rez.g.cs
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.g.cs
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\App.g.cs
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.cache
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.lref
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\Dimenzije.baml
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.g.resources
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.Properties.Resources.resources
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DMS\theOne\Korisnik\WPFMatrice\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DMS\New folder\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe.config
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.exe
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.pdb
+F:\DMS\New folder\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe
+F:\DMS\New folder\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.pdb
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.baml
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\Progress.baml
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\Rez.baml
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.baml
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\Dimenzije.g.cs
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.g.cs
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\Progress.g.cs
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\Rez.g.cs
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.g.cs
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\App.g.cs
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.cache
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.lref
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\Dimenzije.baml
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.g.resources
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.Properties.Resources.resources
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DMS\New folder\Korisnik\WPFMatrice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe.config
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.exe
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.pdb
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.pdb
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\WPFKorisnik.csprojResolveAssemblyReference.cache
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.baml
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\Progress.baml
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\Rez.baml
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.baml
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\Dimenzije.g.cs
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\Progress.g.cs
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\Rez.g.cs
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.g.cs
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\App.g.cs
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.cache
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.lref
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\Dimenzije.baml
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.g.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.Properties.Resources.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\praktikum (internship)_jelena pantovic\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\WPFKorisnik.csproj.GenerateResource.Cache
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\WCF_WPF_parallel programming\strucna praksa-zadatak\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe.config
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\WCF_WPF_parallel programming\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.exe
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\PROJECTS\WCF_WPF_parallel programming\strucna praksa-zadatak\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.pdb

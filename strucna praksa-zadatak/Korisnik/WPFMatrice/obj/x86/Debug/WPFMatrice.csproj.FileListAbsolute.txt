@@ -1,0 +1,15 @@
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.exe
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\bin\Debug\WPFMatrice.pdb
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.baml
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\App.g.cs
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice_MarkupCompile.cache
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.g.resources
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.Properties.Resources.resources
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.exe
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\WPFMatrice.pdb
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.baml
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\WPFMatrice\obj\x86\Debug\UnosMatrica.g.cs

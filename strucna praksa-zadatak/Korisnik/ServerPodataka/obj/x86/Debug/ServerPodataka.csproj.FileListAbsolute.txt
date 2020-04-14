@@ -1,0 +1,17 @@
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\ServerPodataka\bin\Debug\ServerPodataka.exe
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\ServerPodataka\bin\Debug\ServerPodataka.pdb
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\ServerPodataka\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\ServerPodataka\obj\x86\Debug\ServerPodataka.exe
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\ServerPodataka\obj\x86\Debug\ServerPodataka.pdb
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\ServerPodataka\bin\Debug\ServerPodataka.exe
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\ServerPodataka\bin\Debug\ServerPodataka.pdb
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\ServerPodataka\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\ServerPodataka\obj\x86\Debug\ServerPodataka.exe
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\ServerPodataka\obj\x86\Debug\ServerPodataka.pdb
+F:\DMS\Korisnik\ServerPodataka\bin\Debug\ServerPodataka.exe
+F:\DMS\Korisnik\ServerPodataka\bin\Debug\ServerPodataka.pdb
+F:\DMS\Korisnik\ServerPodataka\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DMS\Korisnik\ServerPodataka\obj\x86\Debug\ServerPodataka.exe
+F:\DMS\Korisnik\ServerPodataka\obj\x86\Debug\ServerPodataka.pdb
+F:\DMS\Korisnik\WPFMatrice\bin\Debug\ServerPodataka.exe
+F:\DMS\Korisnik\WPFMatrice\bin\Debug\ServerPodataka.pdb

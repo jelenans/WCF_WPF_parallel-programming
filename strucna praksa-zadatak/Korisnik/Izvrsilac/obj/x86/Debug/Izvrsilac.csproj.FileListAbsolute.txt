@@ -1,0 +1,22 @@
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\Izvrsilac\bin\Debug\Izvrsilac.exe
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\Izvrsilac\bin\Debug\Izvrsilac.pdb
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\Izvrsilac\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\Izvrsilac\obj\x86\Debug\Izvrsilac.exe
+C:\Users\jelena.pantovic\Documents\Visual Studio 2010\Projects\Korisnik\Izvrsilac\obj\x86\Debug\Izvrsilac.pdb
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\Izvrsilac\bin\Debug\Izvrsilac.exe
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\Izvrsilac\bin\Debug\Izvrsilac.pdb
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\Izvrsilac\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\Izvrsilac\obj\x86\Debug\Izvrsilac.exe
+C:\Users\jelena.pantovic\Documents\Matrice_valid\Korisnik\Izvrsilac\obj\x86\Debug\Izvrsilac.pdb
+F:\DMS\Korisnik\Izvrsilac\bin\Debug\Izvrsilac.exe
+F:\DMS\Korisnik\Izvrsilac\bin\Debug\Izvrsilac.pdb
+F:\DMS\Korisnik\Izvrsilac\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DMS\Korisnik\Izvrsilac\obj\x86\Debug\Izvrsilac.exe
+F:\DMS\Korisnik\Izvrsilac\obj\x86\Debug\Izvrsilac.pdb
+F:\DMS\Korisnik\WPFMatrice\bin\Debug\Izvrsilac.exe
+F:\DMS\Korisnik\WPFMatrice\bin\Debug\Izvrsilac.pdb
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\bin\Debug\Izvrsilac.exe
+C:\Users\jelena.pantovic\Videos\Korisnik\WPFMatrice\bin\Debug\Izvrsilac.pdb
+C:\Users\jelena.pantovic\Videos\Korisnik\Izvrsilac\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jelena.pantovic\Videos\Korisnik\Izvrsilac\obj\x86\Debug\Izvrsilac.exe
+C:\Users\jelena.pantovic\Videos\Korisnik\Izvrsilac\obj\x86\Debug\Izvrsilac.pdb
